@@ -114,7 +114,6 @@ window.addEventListener('resize', onWindowResize, false)
 MouseMove
 ------------------------------*/
 function onMouseMove(e) {
-	console.log(e)
 	const x = e.clientX
 	const y = e.clientY
 

@@ -117,7 +117,7 @@ class Model {
 				new THREE.BufferAttribute(particleRandomness, 3)
 			)
 
-			console.log(this.particlesGeometry)
+			// console.log(this.particlesGeometry)
 			/*------------------------------
 			Particles
 			------------------------------*/
